@@ -1,6 +1,6 @@
 <?php
 
-namespace pkg;
+namespace pkgAD;
 
 class Hello {
 	
