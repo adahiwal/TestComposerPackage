@@ -1,5 +1,5 @@
 {
-    "name": "pkgAD",
+    "name": "adahiwal/pkgad",
     "type": "library",
     "description": "First pkg",
     "keywords": ["relevant","tags","go","here"],
