@@ -1,6 +1,6 @@
 <?php
 
-namespace pkgAD;
+namespace pkgad;
 
 class Hello {
 	
