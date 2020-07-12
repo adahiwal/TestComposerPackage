@@ -1,0 +1,15 @@
+{
+    "name": "pkg",
+    "type": "library",
+    "description": "First pkg",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajay Dahiwal",
+            "email": "adahiwal@xento.com",
+            "role": "Developer"
+        }
+    ]
+}
