@@ -1,5 +1,5 @@
 {
-    "name": "pkg",
+    "name": "pkgAD",
     "type": "library",
     "description": "First pkg",
     "keywords": ["relevant","tags","go","here"],
